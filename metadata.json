@@ -1,0 +1,6 @@
+{
+  "name": "MogsAI - Minecraft AI Development Platform",
+  "description": "Autonomous AI Minecraft developer that understands natural language to create, modify, build, test, debug, and package Minecraft plugins, mods, and server software.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
